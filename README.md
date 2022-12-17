@@ -2,7 +2,6 @@
 
 - 🎩 Aplicativos em Flutter
 - 🎩 Hacker Ético
-- 🎩 Microcontroladores
 
 <div align="center">
   <a href="https://github.com/lucaspaludo">
