@@ -1,4 +1,4 @@
-### Olá! Meu nome é Lucas Paludo, programador e criador de conteúdo.
+### Olá! Meu nome é Lucas Paludo, seja bem vindo ao meu Github.
 
 - 🎩 Aplicativos em Flutter
 - 🎩 Hacker Ético
