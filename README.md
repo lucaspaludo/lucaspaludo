@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lucas Paludo, seja bem vindo ao meu Github.
 
 - 🎩 Aplicativos em Flutter
-- 🎩 Hacker Ético
+- 🎩 Projetos de Robótica
 
 <div align="center">
   <a href="https://github.com/lucaspaludo">
