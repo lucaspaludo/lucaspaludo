@@ -1,8 +1,5 @@
 ### Olá! Meu nome é Lucas Paludo, seja bem vindo ao meu Github.
 
-- 🎩 Aplicativos em Flutter
-- 🎩 Projetos de Robótica
-
 <div align="center">
   <a href="https://github.com/lucaspaludo">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucaspaludo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
