@@ -24,9 +24,8 @@
       <img src="https://i.picasion.com/pic92/056e2a3f786972eda69c3fa94e73d0ff.gif" width="150">
     </td>
   </tr>
+  
 </table>
-##
-
 <div> 
   <a href="https://www.youtube.com/channel/UC_o-H-0EhZpO1mVuTfOq8Jg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
