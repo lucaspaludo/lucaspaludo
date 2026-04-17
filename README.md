@@ -1,16 +1,15 @@
 ### Olá! Meu nome é Lucas Paludo, seja bem-vindo ao meu GitHub.
 
-<div align="center">
-  <a href="https://github.com/lucaspaludo">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucaspaludo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&v=2"/>
-  </a>
-  <a href="https://github.com/lucaspaludo">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaludo&layout=compact&langs_count=7&theme=merko&cache_seconds=3600"/>
-  </a>
-</div>
-
-<div align="center">
 <table>
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspaludo&show_icons=true&theme=merko&include_all_commits=true&count_private=true&v=2"/>
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaludo&layout=compact&langs_count=7&theme=merko&cache_seconds=3600"/>
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -24,8 +23,6 @@
     </td>
   </tr>
 </table>
-</div>
-
 ##
 
 <div> 
