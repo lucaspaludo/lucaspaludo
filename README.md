@@ -9,18 +9,18 @@
   </a>
 </div>
 
-<div><br>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div style="display: flex; gap: 15px;">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
-  
-  <a href="https://picasion.com/">
-    <img align="right" src="https://i.picasion.com/pic92/056e2a3f786972eda69c3fa94e73d0ff.gif" width="150" height="150" border="0">
-  </a>
+
+  <img src="https://i.picasion.com/pic92/056e2a3f786972eda69c3fa94e73d0ff.gif" width="150">
+
 </div>
 
 ##
